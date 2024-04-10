@@ -38,7 +38,6 @@ namespace Client
                 {
                     Console.WriteLine("Сообщение не доставлено...");
                 }
-
             }
         }
     }
